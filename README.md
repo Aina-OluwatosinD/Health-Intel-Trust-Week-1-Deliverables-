@@ -1,7 +1,7 @@
 # Health-Intel-Trust-Week-1-Deliverables-Problem statement on Sickle Cell Disease 
 Sickle Cell Disease has been a public threat in Sub-Saharan African and with the highest number of people living with sickle cell Disease in Nigeria.
 Each year, about 150 000 Nigerian children are born with the condition. 
-Sickle Cell Disease is a blood disorder disease, where the Red Blood cells become sickle C” shape. While healthy red blood cells are round and move easily all over the body.
+Sickle Cell Disease is a blood disorder disease, where the Red Blood cells become sickle C shape. While healthy red blood cells are round and move easily all over the body.
 This deformed Red Blood Cells stick together and prevents the hemoglobin in red blood cells in the delivery of oxygen to tissues and organs of the body
 People suffering from Sickle Cell Disease have experienced several complications due to limited access to health care, late diagnosis leading to high mortality rate.
 They experience sudden onset of Strong pain periodically called pain crises, due to blocked blood flow. This can lead to complications like stroke, eye problems, infections e.tc. 
